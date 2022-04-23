@@ -1,1 +1,1 @@
-# SQL_queries just having some fun with SQL queries
+# Just having some fun with SQL queries
